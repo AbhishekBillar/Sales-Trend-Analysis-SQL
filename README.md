@@ -37,4 +37,3 @@ By completing this task, you will:
 - Practice combining filters, wildcards, and grouped conditions
 - Gain hands-on experience writing SQL queries suitable for business reporting and interviews
 
----
