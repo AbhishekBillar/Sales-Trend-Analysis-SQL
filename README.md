@@ -1,4 +1,4 @@
-# 📊 Task 6: Sales Trend Analysis Using Aggregations
+# 📊 Sales Trend Analysis Using Aggregations
 
 ## 📝 Objective
 Perform time-based sales analysis using SQL aggregation functions to uncover patterns in **monthly revenue and order volume**.
